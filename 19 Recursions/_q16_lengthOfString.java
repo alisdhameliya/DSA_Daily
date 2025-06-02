@@ -8,8 +8,20 @@ public class _q16_lengthOfString {
         i =i+1;
         lengthOfString(i, st,temp);
     }
+
+    //second solution
+
+    public static int length(String st)
+    {
+        if (st.length()==0) {
+            return 0;
+        }
+
+        return length(st.substring(1))+1;
+    }
     public static void main(String[] args) {
         String test = "alis";
         lengthOfString(0, test,new StringBuilder(""));
+        System.out.println(length(test));
     }
 }
