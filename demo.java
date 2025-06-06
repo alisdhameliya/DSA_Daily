@@ -1,12 +1,18 @@
+import java.util.Arrays;
+
 public class demo {
     public static void main(String[] args) {
-        int[] arr ={1,2,3,4,5};
-        for (int i = 0; i < arr.length; i++) {
-            if (arr[i]==3) {
+        // int[] arr ={1,2,3,4,5};
+        // for (int i = 0; i < arr.length; i++) {
+        //     if (arr[i]==3) {
                 
-                continue;
-            }
-            System.out.println(arr[i]);
-        }
+        //         continue;
+        //     }
+        //     System.out.println(arr[i]);
+        // }
+        String s = "bdda";
+        char[] ch = s.toCharArray();
+        Arrays.sort(ch);
+        System.out.println(Arrays.toString(ch));
     }
 }
