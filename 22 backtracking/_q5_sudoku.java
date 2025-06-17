@@ -24,6 +24,7 @@ public class _q5_sudoku {
                 sudoku[row][col] = 0;
             }
         }
+        return true;
     }
 
     public static boolean isSafe(int sudoku[][],int row, int col, int digit){
@@ -58,8 +59,9 @@ public class _q5_sudoku {
     public static void printSudoku(int[][] sudoku){
         for (int i = 0; i < sudoku.length; i++) {
             for (int j = 0; j < sudoku.length; j++) {
-                System.out.println(sudoku[i][j]);
+                System.out.print(sudoku[i][j]);
             }
+            System.out.println();
         }
     }
 
