@@ -13,6 +13,7 @@ public class _q13_removeConsicutiveOne {
             removeConsicutiveOne(n - 1, 1, ans + "1");
         }
     }
+    
     public static void main(String[] args) {
         int n = 3; // Change this value to generate different lengths
         removeConsicutiveOne(n,0, "");

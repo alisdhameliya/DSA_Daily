@@ -1,0 +1,714 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "StockSpanProblem",
+            "request": "launch",
+            "mainClass": "StockSpanProblem",
+            "projectName": "DSA_Daily_ac7234ba"
+        },
+        {
+            "type": "java",
+            "name": "ReverseStack",
+            "request": "launch",
+            "mainClass": "ReverseStack",
+            "projectName": "DSA_Daily_ac7234ba"
+        },
+        {
+            "type": "java",
+            "name": "ReverseStringStack",
+            "request": "launch",
+            "mainClass": "ReverseStringStack",
+            "projectName": "DSA_Daily_ac7234ba"
+        },
+        {
+            "type": "java",
+            "name": "PushAtBottom",
+            "request": "launch",
+            "mainClass": "PushAtBottom",
+            "projectName": "DSA_Daily_ac7234ba"
+        },
+        {
+            "type": "java",
+            "name": "LinkedListStack",
+            "request": "launch",
+            "mainClass": "LinkedListStack",
+            "projectName": "DSA_Daily_ac7234ba"
+        },
+        {
+            "type": "java",
+            "name": "ArrayListStack",
+            "request": "launch",
+            "mainClass": "ArrayListStack",
+            "projectName": "DSA_Daily_ac7234ba"
+        },
+        {
+            "type": "java",
+            "name": "DoubleLL",
+            "request": "launch",
+            "mainClass": "DoubleLL",
+            "projectName": "DSA_Daily_ac7234ba"
+        },
+        {
+            "type": "java",
+            "name": "_q2_mergeSortLL",
+            "request": "launch",
+            "mainClass": "_q2_mergeSortLL",
+            "projectName": "DSA_Daily_ac7234ba"
+        },
+        {
+            "type": "java",
+            "name": "_q1_detectLoop",
+            "request": "launch",
+            "mainClass": "_q1_detectLoop",
+            "projectName": "DSA_Daily_ac7234ba"
+        },
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "BlueCar",
+            "request": "launch",
+            "mainClass": "BlueCar",
+            "projectName": "DSA_Daily_ac7234ba"
+        },
+        {
+            "type": "java",
+            "name": "LinkedList",
+            "request": "launch",
+            "mainClass": "LinkedList",
+            "projectName": "DSA_Daily_ac7234ba"
+        },
+        {
+            "type": "java",
+            "name": "_q10_ElemExistTwice",
+            "request": "launch",
+            "mainClass": "_q10_ElemExistTwice",
+            "projectName": "DSA_Daily_ac7234ba"
+        },
+        {
+            "type": "java",
+            "name": "_q10_tillingProblem",
+            "request": "launch",
+            "mainClass": "_q10_tillingProblem",
+            "projectName": "DSA_Daily_ac7234ba"
+        },
+        {
+            "type": "java",
+            "name": "_q11_removeDuplicate",
+            "request": "launch",
+            "mainClass": "_q11_removeDuplicate",
+            "projectName": "DSA_Daily_ac7234ba"
+        },
+        {
+            "type": "java",
+            "name": "_q11_rotatedArrayTargetExist",
+            "request": "launch",
+            "mainClass": "_q11_rotatedArrayTargetExist",
+            "projectName": "DSA_Daily_ac7234ba"
+        },
+        {
+            "type": "java",
+            "name": "_q12_StockBuySell",
+            "request": "launch",
+            "mainClass": "_q12_StockBuySell",
+            "projectName": "DSA_Daily_ac7234ba"
+        },
+        {
+            "type": "java",
+            "name": "_q12_friendPairs",
+            "request": "launch",
+            "mainClass": "_q12_friendPairs",
+            "projectName": "DSA_Daily_ac7234ba"
+        },
+        {
+            "type": "java",
+            "name": "_q13_removeConsicutiveOne",
+            "request": "launch",
+            "mainClass": "_q13_removeConsicutiveOne",
+            "projectName": "DSA_Daily_ac7234ba"
+        },
+        {
+            "type": "java",
+            "name": "_q13_triplate",
+            "request": "launch",
+            "mainClass": "_q13_triplate",
+            "projectName": "DSA_Daily_ac7234ba"
+        },
+        {
+            "type": "java",
+            "name": "_q14_findAllOccurance",
+            "request": "launch",
+            "mainClass": "_q14_findAllOccurance",
+            "projectName": "DSA_Daily_ac7234ba"
+        },
+        {
+            "type": "java",
+            "name": "_q15_numberInWords",
+            "request": "launch",
+            "mainClass": "_q15_numberInWords",
+            "projectName": "DSA_Daily_ac7234ba"
+        },
+        {
+            "type": "java",
+            "name": "_q16_lengthOfString",
+            "request": "launch",
+            "mainClass": "_q16_lengthOfString",
+            "projectName": "DSA_Daily_ac7234ba"
+        },
+        {
+            "type": "java",
+            "name": "_q17_startEndWithSame",
+            "request": "launch",
+            "mainClass": "_q17_startEndWithSame",
+            "projectName": "DSA_Daily_ac7234ba"
+        },
+        {
+            "type": "java",
+            "name": "_q1_Complex",
+            "request": "launch",
+            "mainClass": "_q1_Complex",
+            "projectName": "DSA_Daily_ac7234ba"
+        },
+        {
+            "type": "java",
+            "name": "_q1_ReverseNumber",
+            "request": "launch",
+            "mainClass": "_q1_ReverseNumber",
+            "projectName": "DSA_Daily_ac7234ba"
+        },
+        {
+            "type": "java",
+            "name": "_q1_avgof3no",
+            "request": "launch",
+            "mainClass": "_q1_avgof3no",
+            "projectName": "DSA_Daily_ac7234ba"
+        },
+        {
+            "type": "java",
+            "name": "_q1_binomialCoffient",
+            "request": "launch",
+            "mainClass": "_q1_binomialCoffient",
+            "projectName": "DSA_Daily_ac7234ba"
+        },
+        {
+            "type": "java",
+            "name": "_q1_bubbleSort",
+            "request": "launch",
+            "mainClass": "_q1_bubbleSort",
+            "projectName": "DSA_Daily_ac7234ba"
+        },
+        {
+            "type": "java",
+            "name": "_q1_countSetbit",
+            "request": "launch",
+            "mainClass": "_q1_countSetbit",
+            "projectName": "DSA_Daily_ac7234ba"
+        },
+        {
+            "type": "java",
+            "name": "_q1_findMax",
+            "request": "launch",
+            "mainClass": "_q1_findMax",
+            "projectName": "DSA_Daily_ac7234ba"
+        },
+        {
+            "type": "java",
+            "name": "_q1_findSubSets",
+            "request": "launch",
+            "mainClass": "_q1_findSubSets",
+            "projectName": "DSA_Daily_ac7234ba"
+        },
+        {
+            "type": "java",
+            "name": "_q1_linearSearch",
+            "request": "launch",
+            "mainClass": "_q1_linearSearch",
+            "projectName": "DSA_Daily_ac7234ba"
+        },
+        {
+            "type": "java",
+            "name": "_q1_mergeSort",
+            "request": "launch",
+            "mainClass": "_q1_mergeSort",
+            "projectName": "DSA_Daily_ac7234ba"
+        },
+        {
+            "type": "java",
+            "name": "_q1_oddEven",
+            "request": "launch",
+            "mainClass": "_q1_oddEven",
+            "projectName": "DSA_Daily_ac7234ba"
+        },
+        {
+            "type": "java",
+            "name": "_q1_op",
+            "request": "launch",
+            "mainClass": "_q1_op",
+            "projectName": "DSA_Daily_ac7234ba"
+        },
+        {
+            "type": "java",
+            "name": "_q1_palindrom",
+            "request": "launch",
+            "mainClass": "_q1_palindrom",
+            "projectName": "DSA_Daily_ac7234ba"
+        },
+        {
+            "type": "java",
+            "name": "_q1_patterns",
+            "request": "launch",
+            "mainClass": "_q1_patterns",
+            "projectName": "DSA_Daily_ac7234ba"
+        },
+        {
+            "type": "java",
+            "name": "_q1_positiveOrNegative",
+            "request": "launch",
+            "mainClass": "_q1_positiveOrNegative",
+            "projectName": "DSA_Daily_ac7234ba"
+        },
+        {
+            "type": "java",
+            "name": "_q1_printDecs",
+            "request": "launch",
+            "mainClass": "_q1_printDecs",
+            "projectName": "DSA_Daily_ac7234ba"
+        },
+        {
+            "type": "java",
+            "name": "_q1_spiralMatrix",
+            "request": "launch",
+            "mainClass": "_q1_spiralMatrix",
+            "projectName": "DSA_Daily_ac7234ba"
+        },
+        {
+            "type": "java",
+            "name": "_q2_Incrising",
+            "request": "launch",
+            "mainClass": "_q2_Incrising",
+            "projectName": "DSA_Daily_ac7234ba"
+        },
+        {
+            "type": "java",
+            "name": "_q2_Oprations",
+            "request": "launch",
+            "mainClass": "_q2_Oprations",
+            "projectName": "DSA_Daily_ac7234ba"
+        },
+        {
+            "type": "java",
+            "name": "_q2_PrimeOrNot",
+            "request": "launch",
+            "mainClass": "_q2_PrimeOrNot",
+            "projectName": "DSA_Daily_ac7234ba"
+        },
+        {
+            "type": "java",
+            "name": "_q2_digonalSum",
+            "request": "launch",
+            "mainClass": "_q2_digonalSum",
+            "projectName": "DSA_Daily_ac7234ba"
+        },
+        {
+            "type": "java",
+            "name": "_q2_fever",
+            "request": "launch",
+            "mainClass": "_q2_fever",
+            "projectName": "DSA_Daily_ac7234ba"
+        },
+        {
+            "type": "java",
+            "name": "_q2_insertionSort",
+            "request": "launch",
+            "mainClass": "_q2_insertionSort",
+            "projectName": "DSA_Daily_ac7234ba"
+        },
+        {
+            "type": "java",
+            "name": "_q2_isEven",
+            "request": "launch",
+            "mainClass": "_q2_isEven",
+            "projectName": "DSA_Daily_ac7234ba"
+        },
+        {
+            "type": "java",
+            "name": "_q2_largestAndSmallest",
+            "request": "launch",
+            "mainClass": "_q2_largestAndSmallest",
+            "projectName": "DSA_Daily_ac7234ba"
+        },
+        {
+            "type": "java",
+            "name": "_q2_multi_dimentioal",
+            "request": "launch",
+            "mainClass": "_q2_multi_dimentioal",
+            "projectName": "DSA_Daily_ac7234ba"
+        },
+        {
+            "type": "java",
+            "name": "_q2_patternsWithKrunal",
+            "request": "launch",
+            "mainClass": "_q2_patternsWithKrunal",
+            "projectName": "DSA_Daily_ac7234ba"
+        },
+        {
+            "type": "java",
+            "name": "_q2_permutaion",
+            "request": "launch",
+            "mainClass": "_q2_permutaion",
+            "projectName": "DSA_Daily_ac7234ba"
+        },
+        {
+            "type": "java",
+            "name": "_q2_quickSort",
+            "request": "launch",
+            "mainClass": "_q2_quickSort",
+            "projectName": "DSA_Daily_ac7234ba"
+        },
+        {
+            "type": "java",
+            "name": "_q2_shortestPath",
+            "request": "launch",
+            "mainClass": "_q2_shortestPath",
+            "projectName": "DSA_Daily_ac7234ba"
+        },
+        {
+            "type": "java",
+            "name": "_q2_squareArea",
+            "request": "launch",
+            "mainClass": "_q2_squareArea",
+            "projectName": "DSA_Daily_ac7234ba"
+        },
+        {
+            "type": "java",
+            "name": "_q3_bill",
+            "request": "launch",
+            "mainClass": "_q3_bill",
+            "projectName": "DSA_Daily_ac7234ba"
+        },
+        {
+            "type": "java",
+            "name": "_q3_binarySearch",
+            "request": "launch",
+            "mainClass": "_q3_binarySearch",
+            "projectName": "DSA_Daily_ac7234ba"
+        },
+        {
+            "type": "java",
+            "name": "_q3_contFirstToUpperCase",
+            "request": "launch",
+            "mainClass": "_q3_contFirstToUpperCase",
+            "projectName": "DSA_Daily_ac7234ba"
+        },
+        {
+            "type": "java",
+            "name": "_q3_factorial",
+            "request": "launch",
+            "mainClass": "_q3_factorial",
+            "projectName": "DSA_Daily_ac7234ba"
+        },
+        {
+            "type": "java",
+            "name": "_q3_findElemRotatedArr",
+            "request": "launch",
+            "mainClass": "_q3_findElemRotatedArr",
+            "projectName": "DSA_Daily_ac7234ba"
+        },
+        {
+            "type": "java",
+            "name": "_q3_isPalindrom",
+            "request": "launch",
+            "mainClass": "_q3_isPalindrom",
+            "projectName": "DSA_Daily_ac7234ba"
+        },
+        {
+            "type": "java",
+            "name": "_q3_maxWaterContainer",
+            "request": "launch",
+            "mainClass": "_q3_maxWaterContainer",
+            "projectName": "DSA_Daily_ac7234ba"
+        },
+        {
+            "type": "java",
+            "name": "_q3_nQueen",
+            "request": "launch",
+            "mainClass": "_q3_nQueen",
+            "projectName": "DSA_Daily_ac7234ba"
+        },
+        {
+            "type": "java",
+            "name": "_q3_no7count",
+            "request": "launch",
+            "mainClass": "_q3_no7count",
+            "projectName": "DSA_Daily_ac7234ba"
+        },
+        {
+            "type": "java",
+            "name": "_q3_op",
+            "request": "launch",
+            "mainClass": "_q3_op",
+            "projectName": "DSA_Daily_ac7234ba"
+        },
+        {
+            "type": "java",
+            "name": "_q3_powerOrNot",
+            "request": "launch",
+            "mainClass": "_q3_powerOrNot",
+            "projectName": "DSA_Daily_ac7234ba"
+        },
+        {
+            "type": "java",
+            "name": "_q3_selectionSort",
+            "request": "launch",
+            "mainClass": "_q3_selectionSort",
+            "projectName": "DSA_Daily_ac7234ba"
+        },
+        {
+            "type": "java",
+            "name": "_q3_weekDaySwitch",
+            "request": "launch",
+            "mainClass": "_q3_weekDaySwitch",
+            "projectName": "DSA_Daily_ac7234ba"
+        },
+        {
+            "type": "java",
+            "name": "_q4_gridWays",
+            "request": "launch",
+            "mainClass": "_q4_gridWays",
+            "projectName": "DSA_Daily_ac7234ba"
+        },
+        {
+            "type": "java",
+            "name": "_q4_inbuildMethods",
+            "request": "launch",
+            "mainClass": "_q4_inbuildMethods",
+            "projectName": "DSA_Daily_ac7234ba"
+        },
+        {
+            "type": "java",
+            "name": "_q4_inbuildSort",
+            "request": "launch",
+            "mainClass": "_q4_inbuildSort",
+            "projectName": "DSA_Daily_ac7234ba"
+        },
+        {
+            "type": "java",
+            "name": "_q4_mergeSortForString",
+            "request": "launch",
+            "mainClass": "_q4_mergeSortForString",
+            "projectName": "DSA_Daily_ac7234ba"
+        },
+        {
+            "type": "java",
+            "name": "_q4_op",
+            "request": "launch",
+            "mainClass": "_q4_op",
+            "projectName": "DSA_Daily_ac7234ba"
+        },
+        {
+            "type": "java",
+            "name": "_q4_reverseArray",
+            "request": "launch",
+            "mainClass": "_q4_reverseArray",
+            "projectName": "DSA_Daily_ac7234ba"
+        },
+        {
+            "type": "java",
+            "name": "_q4_stringCompression",
+            "request": "launch",
+            "mainClass": "_q4_stringCompression",
+            "projectName": "DSA_Daily_ac7234ba"
+        },
+        {
+            "type": "java",
+            "name": "_q4_sumOf2ndRow",
+            "request": "launch",
+            "mainClass": "_q4_sumOf2ndRow",
+            "projectName": "DSA_Daily_ac7234ba"
+        },
+        {
+            "type": "java",
+            "name": "_q4_sumOfNnaturalNo",
+            "request": "launch",
+            "mainClass": "_q4_sumOfNnaturalNo",
+            "projectName": "DSA_Daily_ac7234ba"
+        },
+        {
+            "type": "java",
+            "name": "_q4_sumOfoddEven",
+            "request": "launch",
+            "mainClass": "_q4_sumOfoddEven",
+            "projectName": "DSA_Daily_ac7234ba"
+        },
+        {
+            "type": "java",
+            "name": "_q4_type",
+            "request": "launch",
+            "mainClass": "_q4_type",
+            "projectName": "DSA_Daily_ac7234ba"
+        },
+        {
+            "type": "java",
+            "name": "_q5_factorial",
+            "request": "launch",
+            "mainClass": "_q5_factorial",
+            "projectName": "DSA_Daily_ac7234ba"
+        },
+        {
+            "type": "java",
+            "name": "_q5_fastExponetioals",
+            "request": "launch",
+            "mainClass": "_q5_fastExponetioals",
+            "projectName": "DSA_Daily_ac7234ba"
+        },
+        {
+            "type": "java",
+            "name": "_q5_fibonacci",
+            "request": "launch",
+            "mainClass": "_q5_fibonacci",
+            "projectName": "DSA_Daily_ac7234ba"
+        },
+        {
+            "type": "java",
+            "name": "_q5_leapYearOrNot",
+            "request": "launch",
+            "mainClass": "_q5_leapYearOrNot",
+            "projectName": "DSA_Daily_ac7234ba"
+        },
+        {
+            "type": "java",
+            "name": "_q5_lowerVowel",
+            "request": "launch",
+            "mainClass": "_q5_lowerVowel",
+            "projectName": "DSA_Daily_ac7234ba"
+        },
+        {
+            "type": "java",
+            "name": "_q5_mejorityElem",
+            "request": "launch",
+            "mainClass": "_q5_mejorityElem",
+            "projectName": "DSA_Daily_ac7234ba"
+        },
+        {
+            "type": "java",
+            "name": "_q5_naming",
+            "request": "launch",
+            "mainClass": "_q5_naming",
+            "projectName": "DSA_Daily_ac7234ba"
+        },
+        {
+            "type": "java",
+            "name": "_q5_pairArry",
+            "request": "launch",
+            "mainClass": "_q5_pairArry",
+            "projectName": "DSA_Daily_ac7234ba"
+        },
+        {
+            "type": "java",
+            "name": "_q5_sudoku",
+            "request": "launch",
+            "mainClass": "_q5_sudoku",
+            "projectName": "DSA_Daily_ac7234ba"
+        },
+        {
+            "type": "java",
+            "name": "_q5_sumOfdigits",
+            "request": "launch",
+            "mainClass": "_q5_sumOfdigits",
+            "projectName": "DSA_Daily_ac7234ba"
+        },
+        {
+            "type": "java",
+            "name": "_q5_transposeOfMatrix",
+            "request": "launch",
+            "mainClass": "_q5_transposeOfMatrix",
+            "projectName": "DSA_Daily_ac7234ba"
+        },
+        {
+            "type": "java",
+            "name": "_q6_anagrams",
+            "request": "launch",
+            "mainClass": "_q6_anagrams",
+            "projectName": "DSA_Daily_ac7234ba"
+        },
+        {
+            "type": "java",
+            "name": "_q6_checkAraySorted",
+            "request": "launch",
+            "mainClass": "_q6_checkAraySorted",
+            "projectName": "DSA_Daily_ac7234ba"
+        },
+        {
+            "type": "java",
+            "name": "_q6_inversionCount",
+            "request": "launch",
+            "mainClass": "_q6_inversionCount",
+            "projectName": "DSA_Daily_ac7234ba"
+        },
+        {
+            "type": "java",
+            "name": "_q6_subArray",
+            "request": "launch",
+            "mainClass": "_q6_subArray",
+            "projectName": "DSA_Daily_ac7234ba"
+        },
+        {
+            "type": "java",
+            "name": "_q6_tableOfN",
+            "request": "launch",
+            "mainClass": "_q6_tableOfN",
+            "projectName": "DSA_Daily_ac7234ba"
+        },
+        {
+            "type": "java",
+            "name": "_q7_firstOccurence",
+            "request": "launch",
+            "mainClass": "_q7_firstOccurence",
+            "projectName": "DSA_Daily_ac7234ba"
+        },
+        {
+            "type": "java",
+            "name": "_q7_prefixSubArrayMaxSum",
+            "request": "launch",
+            "mainClass": "_q7_prefixSubArrayMaxSum",
+            "projectName": "DSA_Daily_ac7234ba"
+        },
+        {
+            "type": "java",
+            "name": "_q8_KaddansAlgo",
+            "request": "launch",
+            "mainClass": "_q8_KaddansAlgo",
+            "projectName": "DSA_Daily_ac7234ba"
+        },
+        {
+            "type": "java",
+            "name": "_q8_lastOccurence",
+            "request": "launch",
+            "mainClass": "_q8_lastOccurence",
+            "projectName": "DSA_Daily_ac7234ba"
+        },
+        {
+            "type": "java",
+            "name": "_q9_trappingRainWater",
+            "request": "launch",
+            "mainClass": "_q9_trappingRainWater",
+            "projectName": "DSA_Daily_ac7234ba"
+        },
+        {
+            "type": "java",
+            "name": "_q9_xPOWn",
+            "request": "launch",
+            "mainClass": "_q9_xPOWn",
+            "projectName": "DSA_Daily_ac7234ba"
+        }
+    ]
+}
